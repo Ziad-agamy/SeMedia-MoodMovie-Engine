@@ -1,0 +1,5 @@
+film_vibe_shot = [
+    {"input": ["Exhausted", "I want something calm and comforting"], "output": "A gentle story that moves at an unhurried pace, wrapping the viewer in warmth and emotional safety. The narrative focuses on quiet moments, human connection, and a sense of calm that allows the mind to rest. It feels like a soft exhale after a long, overwhelming day."},
+    {"input": ["Melancholy", "I feel sad and want something meaningful"], "output": "A deeply emotional journey that explores loss, memory, and the fragile beauty of human relationships. The story lingers on introspection and raw feeling, offering moments of pain alongside subtle hope. It invites the viewer to reflect, feel, and quietly process unresolved emotions."},
+    {"input": ["Excited", "I want something thrilling and fun"], "output": "A high-energy experience filled with momentum, bold emotions, and an infectious sense of adventure. The story thrives on excitement, dynamic pacing, and moments that spark adrenaline and joy. It leaves the viewer energized, entertained, and eager for what comes next."}
+]

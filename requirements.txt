@@ -1,0 +1,36 @@
+# Core
+pydantic>=2.5.0
+python-dotenv>=1.0.0
+
+# LangChain core
+langchain>=0.1.16
+langchain-community>=0.0.34
+langgraph>=0.0.40
+
+# LLM Providers
+langchain-google-genai>=1.0.3
+
+# Local models (Ollama)
+langchain-ollama>=0.1.0
+
+# Vector store & embeddings
+faiss-cpu>=1.7.4
+tiktoken>=0.6.0
+
+# Data handling
+pandas>=2.1.0
+numpy>=1.26.0
+
+# Data visualization
+matplotlib
+seaborn
+
+# Document loading
+pypdf>=4.1.0
+
+# API & backend
+fastapi>=0.110.0
+uvicorn>=0.29.0
+
+# HTTP requests
+requests>=2.31.0
